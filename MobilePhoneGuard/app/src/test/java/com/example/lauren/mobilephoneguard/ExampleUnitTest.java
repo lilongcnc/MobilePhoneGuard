@@ -1,4 +1,4 @@
-package com.lauren.mobilephoneguard;
+package com.example.lauren.mobilephoneguard;
 
 import org.junit.Test;
 

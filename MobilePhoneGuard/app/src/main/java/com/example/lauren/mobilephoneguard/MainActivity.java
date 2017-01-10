@@ -1,4 +1,4 @@
-package com.lauren.mobilephoneguard;
+package com.example.lauren.mobilephoneguard;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
